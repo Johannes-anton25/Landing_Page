@@ -3,8 +3,10 @@
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
-.hero {
+.hero-section {
   background-color: #1f2937;
+  margin: 0;
+  padding: 0;
 }
 
 .hero-logo {
@@ -22,7 +24,25 @@
   color: #e5e7eb;
 }
 
-.quote-
+.middle-section {
+  background-color: white;
+}
+
+.quote-section {
+  background-color: #e5e7eb;
+}
+
+.quote-paragraph {
+  font-size: 36px light italic;
+}
+
+.quote-person {
+  font-weight: bold;
+}
+
+.bottom-section {
+  background-color: white;
+}
 footer {
   background-color: #1f2937;
 }
